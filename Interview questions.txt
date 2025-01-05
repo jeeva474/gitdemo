@@ -1,0 +1,4 @@
+1. Jenkins - GIT clone and pipeline
+2. File Handling - CSV Reader and Writer and Xml File handling
+3. Dictionary , slicing , list
+4.
